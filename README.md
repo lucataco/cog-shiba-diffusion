@@ -1,4 +1,4 @@
-# Vintedois Diffusion Cog model
+# Shiba Diffusion Cog model
 
 
 This is an implementation of the NowAi's [Shiba Diffusion](https://huggingface.co/lucataco/Shiba) model as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog)
